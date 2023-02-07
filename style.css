@@ -9,13 +9,19 @@ h1 {
   text-align: center;
 }
 
-p {
+.status {
+  color: #353535
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+  font-size: 30px
+}
+
+.name {
   color: #353535
   font-family: 'Lato', sans-serif;
   text-align: center;
   font-size: 50px
 }
-
 
 h4 {
   color: #353535
