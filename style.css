@@ -19,7 +19,8 @@ h1 {
   color: white;
   font-family: 'Lato', sans-serif;
   text-align: center;
-  font-size: 10px
+  font-size: 15px
+  font-style: italic;
 }
 
 .name {
