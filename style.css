@@ -36,7 +36,5 @@ h4 {
 }
 
 hr {
-  height:5px;
-  width:8px;
-  color:white;
+  border: 1px solid black;
 }
