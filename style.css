@@ -1,8 +1,10 @@
+
 body {
   background: #EDE7DF;
 }
 
 h1 {
   color: #353535
-  font-family: Helvetica;
+  font-family: helvetica;
+  text-align: center;
 }
